@@ -34,32 +34,3 @@ getFilteredData();
 
 
 
-
-
-
-
-
-
-
-// var animals = [];
-
-
-// const categoryFilter = (data, category) => data.filter(item => item.Category === category)
-
-
-// // const dataHandler = () => {
-// //     var data = [];
-// //     fetch(url)
-// //     .then(response => response.json())
-// //     .then(data => data.entries.map(item => data.push(item)));
-// //     console.log(data)
-// // }
-
-
-
-// // animals = categoryFilter(data.entries, "Animals")
-// // dataHandler();
-// console.log(animals)
-
-
-
