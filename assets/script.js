@@ -19,6 +19,7 @@ const othersFilter = (data) => data.filter(item => (item.Category !== "Animals" 
 
 // -------- Function for rendering data to html elements ------
 const renderArray = (data, container) => {
+    container.innerText = " "
     data.map(item => {
 
         const info = document.createElement("div");
